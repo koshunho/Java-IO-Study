@@ -6,7 +6,7 @@ Some examples to help understanding Java IO
 ##### 什么是流？
 内存与存储设备之间传输数据的通道。
 
-![流](http://qcorkht4q.bkt.clouddn.com/blog流.png)
+![流](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog流.png)
 
 ##### 流的分类
 
@@ -27,7 +27,7 @@ Some examples to help understanding Java IO
 ##### 字节流
 
 字节流的父类（抽象类）
-![InputStream/OutputStream](http://qcorkht4q.bkt.clouddn.com/blogInputStream_OutputStream.png)
+![InputStream/OutputStream](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blogInputStream_OutputStream.png)
 
 ###### 文件字节流：FileInputStream/FileOutputStream
 
@@ -204,7 +204,7 @@ public class TestObjectInputStream {
 
 ##### 字符流
 字符流的父类（抽象类）
-![Reader/Writer](http://qcorkht4q.bkt.clouddn.com/blogReader_Writer.png)
+![Reader/Writer](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blogReader_Writer.png)
 
 ###### 文件字符流：FileReader/FileWriter
 FileReader
